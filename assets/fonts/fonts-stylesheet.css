@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Rams';
+    src: url('RamsBlack-Italic.woff2') format('woff2'),
+        url('RamsBlack-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rams';
+    src: url('Rams.woff2') format('woff2'),
+        url('Rams.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rams';
+    src: url('RamsBlack.woff2') format('woff2'),
+        url('RamsBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rams';
+    src: url('Rams-Bold.woff2') format('woff2'),
+        url('Rams-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rams';
+    src: url('Rams-Italic.woff2') format('woff2'),
+        url('Rams-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rams';
+    src: url('Rams-BoldItalic.woff2') format('woff2'),
+        url('Rams-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rams Lt';
+    src: url('RamsLt.woff2') format('woff2'),
+        url('RamsLt.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rams Lt';
+    src: url('RamsLt-Italic.woff2') format('woff2'),
+        url('RamsLt-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
